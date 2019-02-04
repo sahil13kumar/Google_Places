@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleNewPlaces</string>
+
+
+    <string-array name="types">
+        <item>atm</item>
+        <item>restaurant</item>
+        <item>backery</item>
+        <item>hospital</item>
+        <item>bank</item>
+        <item>school</item>
+        <item>hotel</item>
+        <item>police</item>
+        <item>bar</item>
+    </string-array>
+    >
+</resources>
